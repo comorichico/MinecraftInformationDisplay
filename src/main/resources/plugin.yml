@@ -1,0 +1,4 @@
+name: MinecraftInformationDisplay
+version: '${project.version}'
+main: com.comorichico.minecraftinformationdisplay.MinecraftInformationDisplay
+api-version: '1.20'
