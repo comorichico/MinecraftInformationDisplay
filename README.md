@@ -1,0 +1,2 @@
+# MinecraftInformationDisplay
+マインクラフトで座標とバイオームを表示するプラグイン
